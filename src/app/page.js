@@ -116,7 +116,7 @@ export default function Home() {
               <b>Qualification:</b> M.SC (CS &amp; IT)
             </li>
             <li>
-              <b>Experience:</b> 8+ Yrs
+              <b>Experience:</b> 10+ Yrs
             </li>
             <li>
               <b>Email:</b> dvcrvijay.webdeveloper@gmail.com
