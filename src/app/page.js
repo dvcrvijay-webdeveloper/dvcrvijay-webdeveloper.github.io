@@ -55,7 +55,7 @@ export default function Home() {
     if (!formData.name) newErrors.name = "Name is required";
     if (!formData.email) newErrors.email = "Email is required";
     if (!formData.mobile) newErrors.mobile = "Mobile number is required";
-    if (!formData.subject) newErrors.subject = "Subject is required";
+    if (!formData.subject) newErrors.subject = "Service Type is required";
     if (!formData.message) newErrors.message = "Message is required";
     if (!userCaptchaInput) newErrors.captcha = "Captcha is required";
     else if (validateCaptcha(userCaptchaInput) !== true) {
