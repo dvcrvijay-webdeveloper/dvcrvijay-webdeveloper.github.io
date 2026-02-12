@@ -119,10 +119,10 @@ export default function Home() {
               <b>Experience:</b> 10+ Yrs
             </li>
             <li>
-              <b>Email:</b> dvcrvijay.webdeveloper@gmail.com
+              <b>Email:</b> dvcrvijay@gmail.com
             </li>
             <li>
-              <b>Whatsapp:</b> +91 8248121248
+              <b>Whatsapp:</b> +91 9500856957
             </li>
           </ul>
           <a href="#contact" className="btn btn-theme-outline">
@@ -138,7 +138,7 @@ export default function Home() {
           </h1>
           {/*<h5 class="fg-theme mb-3">--Full Stack Developer--</h5>*/}
           <p className="text-muted">
-            Hello, I&apos;m Vijay, a seasoned web developer with over 8+ years of
+            Hello, I&apos;m Vijay, a seasoned web developer with over 10+ years of
             experience in web design and development. I specialize in creating
             dynamic and responsive websites using a wide range of technologies,
             ensuring seamless user experiences. My journey in web development
