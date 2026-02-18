@@ -29,15 +29,14 @@ export default function RootLayout({ children }) {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
-        <title>
-          ``DotCoders... - Full Stack Developer | Web Design | Web Development
-        </title>
-        <meta name="description" content="Full Stack Developer" />
-        <meta
-          name="keywords"
-          content="web design, web development, php, laravel, wordpress, Full Stack Developer"
-        />
-        <meta name="author" content="vijay" />
+        <title>Vijay Chakaravarthy - Freelance WordPress, PHP & Laravel Developer</title>
+
+        <meta name="description" content="Professional Freelance Full Stack Developer specializing in WordPress, PHP, and Laravel bug fixes, website development, and performance optimization. Fast and reliable service." />
+
+        <meta name="keywords" content="WordPress developer, PHP developer, Laravel developer, fix WordPress errors, fix PHP bugs, freelance web developer, full stack developer India, Vijay Chakaravarthy" />
+
+        <meta name="author" content="Vijay Chakaravarthy" />
+
         <link rel="shortcut icon" href="/faviconN.ico" type="image/x-icon" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />

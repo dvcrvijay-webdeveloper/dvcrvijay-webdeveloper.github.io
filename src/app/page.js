@@ -120,9 +120,9 @@ export default function Home() {
           data-offset={500}
         >
           <div className="container">
-            <a href="" className="navbar-brand display-sm tw-text-white-500">
-              ``DotCoders...
-            </a>
+            {/* <a href="" className="navbar-brand display-sm tw-text-silver-500 tw-font-bold">
+              Vijay Chakaravarthy 
+            </a> */}
             <button
               className="navbar-toggler"
               data-toggle="collapse"
@@ -206,12 +206,13 @@ export default function Home() {
             />
           </div>
           <h1 className="display-tc">-- Vijay Chakaravarthy --</h1>
-          <div className="tw-text-blue-500 tw-font-bold">
+          <div className="tw-text-silver-500 tw-font-bold">
             Full Stack Developer
           </div>
-          <h6 className="tw-mt-3 tw-text-orange-500">
-            Web Design&nbsp;|&nbsp;Web Application&nbsp;|&nbsp;Mobile App{" "}
-          </h6>
+        <h6 className="tw-mt-3 tw-text-orange-500 tw-font-bold">
+  Web Design&nbsp;|&nbsp;Web Application&nbsp;|&nbsp;Mobile App
+</h6>
+
         </div>{" "}
         {/* End Caption header */}
         <div className="floating-button">
@@ -946,7 +947,7 @@ export default function Home() {
       {/* End Contact */}
       {/* Footer */}
       <div className="vg-footer">
-        <h1 className="text-center display-sm">``DotCoders..</h1>
+        <h1 className="text-center display-sm">Freelance Full Stack Developer</h1>
         <div className="container">
           <div className="row">
             <div className="col-lg-4 py-3">
