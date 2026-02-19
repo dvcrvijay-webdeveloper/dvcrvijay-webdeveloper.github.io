@@ -693,6 +693,57 @@ export default function Home() {
                 />
               </div>
             </div>
+           <div className="grid-item apps wow zoomIn">
+              <div
+                className="img-place"
+                data-src="assets/img/work/w14.jpg"
+                data-fancybox="gallery"
+                data-caption=""
+              >
+                <Image
+                  width="0"
+                  height="0"
+                  style={{ height: "250px" }}
+                  src="assets/img/work/w14.jpg"
+                  alt=""
+                />
+              </div>
+            </div>
+
+           <div className="grid-item apps wow zoomIn">
+              <div
+                className="img-place"
+                data-src="assets/img/work/w17.png"
+                data-fancybox="gallery"
+                data-caption=""
+              >
+                <Image
+                  width="0"
+                  height="0"
+                  style={{ height: "250px" }}
+                  src="assets/img/work/w17.png"
+                  alt=""
+                />
+              </div>
+            </div>    
+
+           <div className="grid-item apps wow zoomIn">
+              <div
+                className="img-place"
+                data-src="assets/img/work/w16.png"
+                data-fancybox="gallery"
+                data-caption=""
+              >
+                <Image
+                  width="0"
+                  height="0"
+                  style={{ height: "250px" }}
+                  src="assets/img/work/w16.png"
+                  alt=""
+                />
+              </div>
+            </div>                        
+
             {/*
 		<div class="grid-item apps wow zoomIn">
     <div class="img-place" data-src="assets/img/work/w13.jpg" data-fancybox="gallery" data-caption="">
