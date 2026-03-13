@@ -70,7 +70,7 @@ export default function Home() {
     }
 
     try {
-      const apiUrl = "https://app.wingstek.in/api";
+      const apiUrl = "https://api-wingstek.dvcrvijay.workers.dev";
 
       // Concat subject with prefix
       const submissionData = {
@@ -78,7 +78,7 @@ export default function Home() {
         subject: `Vijay Portfolio : ${formData.subject}`,
       };
 
-      const response = await axios.post(`${apiUrl}/contact`, submissionData);
+      const response = await axios.post(`${apiUrl}/contact-direct`, submissionData);
 
       if (response.status === 200 || response.status === 201) {
         toast.success("Thank you. We will get back to you soon.");
